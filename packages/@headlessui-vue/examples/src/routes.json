@@ -47,6 +47,11 @@
         "name": "Listbox multiple elements",
         "path": "/listbox/multiple-elements",
         "component": "./components/listbox/multiple-elements.vue"
+      },
+      {
+        "name": "Element-plus",
+        "path": "/listbox/element-plus",
+        "component": "./components/listbox/element-plus.vue"
       }
     ]
   },
